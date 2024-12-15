@@ -62,21 +62,10 @@ Copy code
 npm test
 Project Structure
 Here is an overview of the project directory structure:
+#You can visit my site on
+https://strong-madeleine-c7782f.netlify.app
 
-bash
-Copy code
-/project-bolt
-│
-├── /node_modules         # Project dependencies
-├── /src                  # Source code
-│   ├── /services         # Service files (e.g., API calls)
-│   ├── /routes           # API routes
-│   └── /controllers      # Controllers to handle requests
-│
-├── .env                  # Environment variables (if any)
-├── package.json          # Project metadata and dependencies
-└── README.md             # Project documentation
-Contributing
+#Contributing
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request with your changes. Please ensure that your code follows the style guide and includes tests where necessary.
 
 Feel free to modify and expand on this template as needed based on your project details.

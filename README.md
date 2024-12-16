@@ -28,6 +28,7 @@ Before you begin, make sure you have the following installed:
    git clone <repository-url>
 Navigate to the project directory.
 
+starting
 bash
 Copy code
 cd project-bolt
